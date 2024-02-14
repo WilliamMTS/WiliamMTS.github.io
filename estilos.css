@@ -1,4 +1,4 @@
-font-face {
+@font-face {
     font-family: "vk";
     src: url(fonts/Subway-Shadow.ttf);
 }
@@ -28,6 +28,7 @@ h1{
     font-family:"vk";
     color: rgb(0, 104, 201);
     font-size: 50px;
+    text-align: center;
     
 }
 h2{
