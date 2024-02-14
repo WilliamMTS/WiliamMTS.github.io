@@ -1,6 +1,6 @@
 @font-face {
     font-family: "vk";
-    src: url(../code/fonts/Subway-Shadow.ttf);
+    src: url(Subway-Shadow.ttf);
 }
 body{
     background-color: rgb(10, 19, 19);
